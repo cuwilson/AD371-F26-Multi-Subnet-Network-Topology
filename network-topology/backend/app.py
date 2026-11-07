@@ -13,6 +13,7 @@ HTML = """<!doctype html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Network Load Balancer Demo</title>
+  <link rel="icon" href="data:,">
   <style>
     body { font: 16px system-ui, sans-serif; margin: 10vh auto; padding: 0 1rem;
            max-width: 640px; background: #f5f8fc; color: #183047; }
